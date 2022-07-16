@@ -1,7 +1,5 @@
 
-/A/__pycache__/
-
-/myapi/__pycache__/
+**/__pycache__/ 
 
 db.sqlite3
 
